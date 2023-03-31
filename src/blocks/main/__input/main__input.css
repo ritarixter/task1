@@ -1,0 +1,9 @@
+.main__input {
+  width: 250px;
+  outline: none;
+  padding: 5px;
+  font-size: 16px;
+  line-height: 20px;
+  border: 1px solid #100c34;
+  color: #100c34;
+}
